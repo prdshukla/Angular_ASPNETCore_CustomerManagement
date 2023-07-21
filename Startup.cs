@@ -30,7 +30,7 @@ namespace Angular_ASPNETCore_CustomersService
         {
             //Add PostgreSQL support
             //services.AddDbContext<CustomersDbContext>(options => {
-            //    options.UseNpgsql(Configuration.GetConnectionString("CustomersPostgresConnectionString"));
+            //   options.UseNpgsql(Configuration.GetConnectionString("CustomersPostgresConnectionString"));
             //});
 
             //Add SQL Server support
